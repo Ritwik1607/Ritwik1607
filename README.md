@@ -20,21 +20,15 @@
 
 ## 📈 GitHub Stats
 
-![Ritwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritwik1607&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritwik1607&theme=tokyonight)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritwik1607&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwik1607&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwik1607&layout=compact&theme=tokyonight&cache_seconds=1800)
 
----
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ritwik1607&theme=tokyonight)
 
 ## 🏆 Achievements
 
@@ -47,9 +41,9 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: ([add your link](www.linkedin.com/in/ritwik-chandra-7a6901214))
-- LeetCode: ([add your link](https://leetcode.com/u/ritwik_chandra1607/))
-- HackerRank:([add your link](https://www.hackerrank.com/profile/ritwik1607))
+- LinkedIn: ([click to visit](https://www.linkedin.com/in/ritwik-chandra-7a6901214))
+- LeetCode: ([click to visit](https://leetcode.com/u/ritwik_chandra1607/))
+- HackerRank:([click to visit](https://www.hackerrank.com/profile/ritwik1607))
 
 ---
 
